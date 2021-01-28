@@ -1,2 +1,2 @@
 # senai-1sem
-Este repositório contém todas as pastas referentes ao 1° semestre do curso de Redes de Computadores
+Este repositório contém as pastas referentes a todos os comandos trabalhados no 1° semestre do curso de Redes de Computadores
