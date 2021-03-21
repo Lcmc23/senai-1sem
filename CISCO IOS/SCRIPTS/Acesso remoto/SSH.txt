@@ -31,3 +31,7 @@ enable secret SenhaSecreta
 end
 wr
 
+OBS: Acessar SSH no prompt de comando
+
+C:\ssh -l [nome-do-usuário] [endereço-ip]
+
