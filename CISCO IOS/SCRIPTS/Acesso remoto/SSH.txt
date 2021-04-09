@@ -35,3 +35,6 @@ OBS: Acessar SSH no prompt de comando
 
 C:\ssh -l [nome-do-usuário] [endereço-ip]
 
+!!!IMPORTANTE!!! 
+
+Para ter acesso remoto, é necessário uma senha de enable
